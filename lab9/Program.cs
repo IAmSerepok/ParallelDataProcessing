@@ -48,7 +48,7 @@ class Program
         }
 
         // Имитация задержки для тестов
-        // Task.Delay(500).Wait();
+        Task.Delay(500).Wait();
         
         Console.WriteLine($"Сгенерирован массив: [{string.Join(", ", array)}]");
         return array;
@@ -58,7 +58,7 @@ class Program
     static double CalculateSumOfSquaresOfEvenNumbers(int[] array)
     {
         // Имитация задержки для тестов
-        // Task.Delay(300).Wait();
+        Task.Delay(300).Wait();
 
         double sumOfSquares = 0;
 
@@ -78,7 +78,7 @@ class Program
     static int FindMaxElement(int[] array)
     {
         // Имитация задержки для тестов
-        // Task.Delay(200).Wait();
+        Task.Delay(200).Wait();
         
         int maxElement = array.Max();
         

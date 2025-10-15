@@ -64,7 +64,6 @@ class Program
             Console.Write(".");
             await Task.Delay(100);
         }
-        
     }
     
     // Метод для отображения результатов

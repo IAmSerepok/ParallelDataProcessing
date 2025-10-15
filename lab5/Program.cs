@@ -74,15 +74,15 @@ class Program
         // Создаем и инициализируем потоки
         for (int i = 0; i < numberOfThreads; i++)
         {
-            // Генерируем случайный вектор для текущего потока
-            double[] randomVector = GenerateRandomVector(vectorDimension, random);
+            // // Генерируем случайный вектор для текущего потока
+            // double[] randomVector = GenerateRandomVector(vectorDimension, random);
 
-            // Создаем параметры для потока
-            ThreadParameters parameters = new ThreadParameters
-            {
-                Vector = randomVector,
-                ThreadNumber = i + 1
-            };
+            // // Создаем параметры для потока
+            // ThreadParameters parameters = new ThreadParameters
+            // {
+            //     Vector = randomVector,
+            //     ThreadNumber = i + 1
+            // };
 
             // Создаем поток
             threads[i] = new Thread(ThreadMethod);

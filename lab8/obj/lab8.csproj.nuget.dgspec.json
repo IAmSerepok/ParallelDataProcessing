@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Projects\\StudyProjects\\ParallelProjects\\lab8\\lab8.csproj": {}
+    "C:\\Users\\User\\Projects\\StudyProjects\\ParallelDataProcessing\\lab8\\lab8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Projects\\StudyProjects\\ParallelProjects\\lab8\\lab8.csproj": {
+    "C:\\Users\\User\\Projects\\StudyProjects\\ParallelDataProcessing\\lab8\\lab8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Projects\\StudyProjects\\ParallelProjects\\lab8\\lab8.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Projects\\StudyProjects\\ParallelDataProcessing\\lab8\\lab8.csproj",
         "projectName": "lab8",
-        "projectPath": "C:\\Users\\User\\Projects\\StudyProjects\\ParallelProjects\\lab8\\lab8.csproj",
+        "projectPath": "C:\\Users\\User\\Projects\\StudyProjects\\ParallelDataProcessing\\lab8\\lab8.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Projects\\StudyProjects\\ParallelProjects\\lab8\\obj\\",
+        "outputPath": "C:\\Users\\User\\Projects\\StudyProjects\\ParallelDataProcessing\\lab8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

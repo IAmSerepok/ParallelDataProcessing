@@ -19,7 +19,7 @@ class Program
         Action<int> print2Action = (number) =>
         {
             if (number == 200)
-                Console.WriteLine($"OK");
+                Console.WriteLine("OK");
             else
                 Console.WriteLine("ERROR");
         };
